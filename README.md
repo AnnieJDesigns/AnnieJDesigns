@@ -1,5 +1,4 @@
-## Hi there 👋, I am a junior developer. 
-I love to learn and connect - I actively search for ways to grow whether it's from feedback, attending industry events, hackathons or study. 
+## Hi there 👋
 
 I am an experienced graphic designer with an extensive track record of successfully delivering a variety of branded visual products on small to large, complex projects. During my process of learning software engineering through the SheCodes Plus Program, I have discovered I have a natural flair for front-end development, but also enjoy nagivating the complexity of the back-end.
 
